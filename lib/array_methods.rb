@@ -1,14 +1,11 @@
 def crystals(ruby,oynx)
   crystals.include?(diamond)
-
 end
 
-def using_sort(array)
-
+def crystals.sort
 end
 
-def using_reverse(array)
-
+def crystals.reverse
 end
 
 def using_first(array)
