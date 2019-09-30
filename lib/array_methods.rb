@@ -1,4 +1,5 @@
-def using_include(array, element)
+def crystals(ruby,oynx)
+  crystals.include?(diamond)
 
 end
 
