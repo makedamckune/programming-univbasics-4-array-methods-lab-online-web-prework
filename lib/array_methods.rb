@@ -8,7 +8,7 @@ end
 def crystals.reverse
 end
 
-def using_first(array)
+def crystals.first
 
 end
 
