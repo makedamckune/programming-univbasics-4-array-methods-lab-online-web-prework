@@ -9,13 +9,10 @@ def crystals.reverse
 end
 
 def crystals.first
-
 end
 
-def using_last(array)
-
+def crystals.last 
 end
 
-def using_size(array)
-
+def crystals.size
 end
